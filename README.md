@@ -1,4 +1,22 @@
+<img src="cover.png" width="70%">
+
 # AI Ethics Expert Chatbot
+
+
+---
+Author: YIRANG JUNG  
+
+All Rights Reserved © Yirang Jung (2026)
+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-111111?logo=ollama&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-HTTP%20Client-2E8B57)
+![HTML/CSS](https://img.shields.io/badge/UI-HTML%2FCSS-1572B6?logo=css3&logoColor=white)
+![AI Ethics](https://img.shields.io/badge/Focus-AI%20Ethics-4B0082)
+![Data Governance](https://img.shields.io/badge/Focus-Data%20Governance-0F766E)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-black)
+
 
 A free, local LLM-based Streamlit chatbot designed to support early-stage AI ethics review and discussion, especially for healthcare and veterinary data governance contexts.
 
@@ -94,10 +112,21 @@ This chatbot is intended as a lightweight ethics discussion and reflection tool.
 - It is a prototype for ethics-oriented discussion, not an authoritative decision system
 - Future expansion may include domain-specific knowledge grounding and retrieval
 
+## License
+
+All Rights Reserved
+
+Copyright (c) 2026 Yirang Jung
+
+All rights reserved.
+
+This project and its contents are the exclusive property of the author.
+Unauthorized copying, modification, distribution, publication, sublicensing, or commercial use of this code, assets, documentation, or derived works, in whole or in part, is strictly prohibited without explicit prior written permission from the author.
+
+All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
+
 ## Author
 
 Yirang Jung
 
-## Copyright and License
-
-All rights reserved. See `LICENSE` and `NOTICE` for details.
+Veterinarian · Medical Researcher · AI Big Data Specialist
