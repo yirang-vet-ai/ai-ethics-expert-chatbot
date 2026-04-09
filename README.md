@@ -129,4 +129,4 @@ All images and visual materials in this repository are protected by copyright. U
 
 Yirang Jung
 
-Veterinarian · Medical Researcher · AI Big Data Specialist
+Veterinarian · Medical Researcher 
